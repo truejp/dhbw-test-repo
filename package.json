@@ -1,0 +1,25 @@
+{
+  "name": "dhbw-test-repo",
+  "version": "1.0.0",
+  "description": "GET /books\r GET /books/id\r POST /books",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/not-productive-yet/dhbw-test-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/not-productive-yet/dhbw-test-repo/issues"
+  },
+  "homepage": "https://github.com/not-productive-yet/dhbw-test-repo#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-validator": "^6.14.0",
+    "nodemon": "^2.0.15"
+  }
+}

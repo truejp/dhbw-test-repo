@@ -1,11 +1,21 @@
-# dhbw-test-repo
+# Examle REST API Book Service built with Express.js
 
-neuen code
+### Run ´npm start´ to start server
 
-neuer code über cmd
+## Initial API documentation
 
-neuen code über github
+- GET /books
+- GET /books/{id}
+- GET /books/search?name={name}
+- POST /books
 
-änderung lokal
+## Files
 
-änderung
+- **index.js**: app entry point
+- **bookRoutes.js**: contains all available
+- **bookController.js**: contains functions for each route as well as validation
+
+## Docs
+
+- **Express.js**: https://expressjs.com
+- **Express validators**: https://express-validator.github.io/docs/custom-error-messages.html
