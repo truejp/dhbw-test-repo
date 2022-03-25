@@ -1,4 +1,4 @@
-# Examle REST API Book Service built with Express.js
+# Example REST API Book Service built with Express.js
 
 ### Run ´npm start´ to start server
 
